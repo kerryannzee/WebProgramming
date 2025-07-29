@@ -1,9 +1,13 @@
 /* Base Styles */
 body {
   margin: 0;
-  font-family: 'Brush Script MT', 'Lucida Handwriting', cursive;;
+  font-family: 'Roboto', sans-serif;
   background-color: #f7f3ed;
-  color: #3e2c23;
+  color: #3a2f2f;
+}
+
+h1 {
+  font-family: 'Pacifico', cursive;
 }
 
 /* Grid Layout for Page */
