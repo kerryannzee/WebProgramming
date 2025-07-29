@@ -58,7 +58,9 @@ body {
   grid-area: main;
   padding: 2rem;
 }
-
+.main-content h2 {
+  text-align: center;
+}
 .flex-container {
   display: flex;
   flex-wrap: wrap;
