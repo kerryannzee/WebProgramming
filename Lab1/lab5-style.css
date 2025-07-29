@@ -1,13 +1,17 @@
 /* Base Styles */
 body {
   margin: 0;
-  font-family: 'Roboto', sans-serif;
+  font-family: 'Lora', serif;
   background-color: #f7f3ed;
   color: #3a2f2f;
 }
 
 h1 {
   font-family: 'Satisfy', cursive;
+  font-size: 48px;
+  color: #4b2e2e;
+  margin: 40px;
+  text-align: center;
 }
 
 /* Grid Layout for Page */
