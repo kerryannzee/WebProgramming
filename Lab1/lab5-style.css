@@ -30,7 +30,7 @@ body {
 .header {
   grid-area: header;
   background-color: #4e342e;
-  color: #fff3e0;
+  color: #974e4e;
   padding: 2rem;
   text-align: center;
 }
