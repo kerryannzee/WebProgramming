@@ -1,4 +1,4 @@
-/* Base Styles */
+
 body {
   margin: 0;
   font-family: 'Lora', serif;
@@ -14,7 +14,7 @@ h1 {
   text-align: center;
 }
 
-/* Grid Layout for Page */
+
 body {
   display: grid;
   grid-template-areas: 
@@ -101,7 +101,6 @@ body {
   padding: 1rem;
 }
 
-/* Responsive Design */
 @media (max-width: 600px) {
   .nav ul {
     flex-direction: column;
